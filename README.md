@@ -17,3 +17,7 @@ This is a example
 This is a simple web project, Deployment can be on any web server.
 
 Sample website with plenty of files for demos
+
+## Copyright
+
+Git.Training
